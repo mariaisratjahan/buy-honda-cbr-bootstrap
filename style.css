@@ -1,0 +1,35 @@
+/* ------common heading color style------- */
+.heading-color{
+    color:#E76F51;
+}
+
+/*----- header section style------*/
+header{
+    background-color: #264653;
+}
+.header-heading{
+    font-size: 48px;
+}
+.btn-color{
+    background-color:#E76F51;
+    padding:10px 46px;
+    color:#ffffff;
+    font-weight: 500;
+}
+/*--------- bike gray scaling section style ------*/
+.gray-scale{
+    filter: grayscale(100%);
+}
+/* -------happy clients section style ----------- */
+.fill-star{
+    color:#E77C40;
+
+}
+.card-heading{
+    color:#23A6F0;
+
+}
+/* ----------brand section style----------- */
+.brand-section{
+    background-color: #ebebeb;
+}

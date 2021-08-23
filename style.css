@@ -1,11 +1,23 @@
 /* ------common heading color style------- */
 .heading-color{
-    color:#E76F51;
+    color:#ec5b33;
 }
+/* navabar section */
+#nav-btn{
+    background-color:#E76F51;
+    padding:10px 20px;
+    color:#ffffff;
+    font-weight: 500;
+    margin-left: 20px;
+}
+ul li a{
+    font-size: 20px;
+}
+
 
 /*----- header section style------*/
 header{
-    background-color: #264653;
+    background-color: #0a625b;
 }
 .header-heading{
     font-size: 48px;
@@ -21,6 +33,9 @@ header{
     filter: grayscale(100%);
 }
 /* -------happy clients section style ----------- */
+#clients{
+    background-color: #ebebeb;
+}
 .fill-star{
     color:#E77C40;
 
